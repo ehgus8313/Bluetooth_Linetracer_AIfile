@@ -3,4 +3,4 @@
 
 **작동영상**
 ---  
-[![](http://img.youtube.com/vi/vIZW05miXOs/0.jpg)](https://youtu.be/vIZW05miXOs "")
+[Youtube](https://youtu.be/vIZW05miXOs)
